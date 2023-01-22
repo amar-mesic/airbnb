@@ -1,0 +1,38 @@
+[
+  {
+    "imgSrc": "https://avatars.githubusercontent.com/u/59733729?v=4",
+    "rating": "5.0",
+    "reviewCount": 4,
+    "country": "BiH",
+    "lesson": "Life lessons from Amar",
+    "price": 940,
+    "spotsOpen": 0
+  },
+  {
+    "imgSrc": "res/gay-albanian.jpeg",
+    "rating": "3.2",
+    "reviewCount": 6,
+    "country": "AL",
+    "lesson": "Life lessons from Alto",
+    "price": 23000,
+    "spotsOpen": 1
+  },
+  {
+    "imgSrc": "res/gaylord.jpeg",
+    "rating": "4.6",
+    "reviewCount": 4,
+    "country": "GR",
+    "lesson": "Lessons from Jasko",
+    "price": 2499,
+    "spotsOpen": 2
+  },
+  {
+    "imgSrc": "res/dumbass.jpeg",
+    "rating": "5.0",
+    "reviewCount": 3,
+    "country": "GR",
+    "lesson": "Life lessons from Pandelis",
+    "price": 69,
+    "spotsOpen": 3
+  }
+]
